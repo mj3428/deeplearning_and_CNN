@@ -1,3 +1,4 @@
 https://blog.csdn.net/qq_39521554/article/details/79083864 #理解卷积
 https://www.zhihu.com/question/22298352/answer/228543288 #通俗易懂理解卷积
 https://www.bilibili.com/video/av24731143/?p=5 #linux
+http://open.163.com/special/Khan/linearalgebra.html #可汗学院 线性代数
