@@ -3,3 +3,4 @@ https://www.zhihu.com/question/22298352/answer/228543288 #通俗易懂理解卷�
 https://www.bilibili.com/video/av24731143/?p=5 #linux
 http://open.163.com/special/Khan/linearalgebra.html #可汗学院 线性代数 （网易云）
 https://www.khanacademy.org/math/linear-algebra #可汗学院 线性代数
+linux.cn/article-5607-1.html #shell脚本面试题
