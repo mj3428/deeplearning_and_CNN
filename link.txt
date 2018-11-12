@@ -4,3 +4,5 @@ https://www.bilibili.com/video/av24731143/?p=5 #linux
 http://open.163.com/special/Khan/linearalgebra.html #可汗学院 线性代数 （网易云）
 https://www.khanacademy.org/math/linear-algebra #可汗学院 线性代数
 linux.cn/article-5607-1.html #shell脚本面试题
+算法:
+快速排序及原理：https://blog.csdn.net/pythondafahao/article/details/80084385
