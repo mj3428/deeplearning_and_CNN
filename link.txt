@@ -10,4 +10,4 @@ https://blog.csdn.net/yuyang_1992/article/details/83686284 #连续值特征做�
 https://blog.csdn.net/oppo62258801/article/details/72884633 #用通俗易懂的大白话讲解Map/Reduce原理
 https://www.cnblogs.com/ms-uap/p/9928254.html #神经网络的基本工作原理
 https://www.cnblogs.com/ms-uap/p/9945871.html #神经网络中反向传播与梯度下降的基本概念
-https://lindexi.gitee.io/post/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90.html#卷积神经网络
+https://lindexi.gitee.io/post/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90.html#卷神经
