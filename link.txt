@@ -12,3 +12,5 @@ https://www.cnblogs.com/ms-uap/p/9928254.html #神经网络的基本工作原理
 https://www.cnblogs.com/ms-uap/p/9945871.html #神经网络中反向传播与梯度下降的基本概念
 https://lindexi.gitee.io/post/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90.html#卷神经
 https://dev.to/sahilrajput/useful-websites-for-programmers-36k #程序员的有用的网站
+
+https://www.infoq.cn/article/CS9-WZQlNR5h05HHDo1b #浏览器工作原理 包含线程与进程
